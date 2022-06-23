@@ -1,0 +1,19 @@
+﻿  Base.cpp
+  Bullet.cpp
+  CSimulation.cpp
+  GMap.cpp
+  GObject.cpp
+  Map.cpp
+C:\Users\patry\PJC\Wojna\Wojna\Map.cpp(81,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Movable.cpp
+  NotMovable.cpp
+  Object.cpp
+  Soldier.cpp
+  Tank.cpp
+  Tree.cpp
+  main.cpp
+C:\Users\patry\PJC\Wojna\Wojna\main.cpp(5,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+C:\Users\patry\PJC\Wojna\Wojna\Tank.cpp(46): warning C4715: "Tank::collisionTree”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\patry\PJC\Wojna\Wojna\Bullet.cpp(34): warning C4715: "Bullet::collision”: niewszystkie ścieżki kodu zwracają wartość
+  Wojna.vcxproj -> C:\Users\patry\PJC\Wojna\Debug\Wojna.exe

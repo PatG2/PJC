@@ -1,0 +1,28 @@
+var files_dup =
+[
+    [ "Base.cpp", "_base_8cpp.html", null ],
+    [ "Base.h", "_base_8h.html", "_base_8h" ],
+    [ "Bullet.cpp", "_bullet_8cpp.html", null ],
+    [ "Bullet.h", "_bullet_8h.html", "_bullet_8h" ],
+    [ "CSimulation.cpp", "_c_simulation_8cpp.html", null ],
+    [ "CSimulation.h", "_c_simulation_8h.html", "_c_simulation_8h" ],
+    [ "GMap.cpp", "_g_map_8cpp.html", null ],
+    [ "GMap.h", "_g_map_8h.html", "_g_map_8h" ],
+    [ "GObject.cpp", "_g_object_8cpp.html", null ],
+    [ "GObject.h", "_g_object_8h.html", "_g_object_8h" ],
+    [ "main.cpp", "main_8cpp.html", "main_8cpp" ],
+    [ "Map.cpp", "_map_8cpp.html", null ],
+    [ "Map.h", "_map_8h.html", "_map_8h" ],
+    [ "Movable.cpp", "_movable_8cpp.html", null ],
+    [ "Movable.h", "_movable_8h.html", "_movable_8h" ],
+    [ "NotMovable.cpp", "_not_movable_8cpp.html", null ],
+    [ "NotMovable.h", "_not_movable_8h.html", "_not_movable_8h" ],
+    [ "Object.cpp", "_object_8cpp.html", null ],
+    [ "Object.h", "_object_8h.html", "_object_8h" ],
+    [ "Soldier.cpp", "_soldier_8cpp.html", null ],
+    [ "Soldier.h", "_soldier_8h.html", "_soldier_8h" ],
+    [ "Tank.cpp", "_tank_8cpp.html", null ],
+    [ "Tank.h", "_tank_8h.html", "_tank_8h" ],
+    [ "Tree.cpp", "_tree_8cpp.html", null ],
+    [ "Tree.h", "_tree_8h.html", "_tree_8h" ]
+];
